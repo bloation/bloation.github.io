@@ -1,10 +1,4 @@
-Lemma Theme
-===========
+Lemma Theme: Lemma is yet another simple responsive theme for Jekyll.
+License: MIT
 
-Lemma is yet another simple responsive theme for Jekyll.
-
-
-License
--------
-
-- MIT
+http://bloation.github.io/
